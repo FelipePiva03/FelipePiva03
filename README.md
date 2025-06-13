@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @FelipePiva03
-- 👀 I’m interested in Data
-- 🌱 I’m currently learning SQL
-- 💞️ I’m looking to collaborate on Data projects
-- 📫 How to reach me felipepiva02@gmail.com
-- 😄 Pronouns: his
-- ⚡ Fun fact: I Love sports
+Hello everyone my name is Felipe Piva, i'm a Data fanatic and here i will posto some experiments
 
 <!---
 FelipePiva03/FelipePiva03 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

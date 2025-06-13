@@ -1,4 +1,6 @@
-Hello everyone my name is Felipe Piva, i'm a Data fanatic and here i will posto some experiments
+Hello everyone my name is Felipe Piva, i'm a Data fanatic and here i will post some experiments with data.
+
+
 
 <!---
 FelipePiva03/FelipePiva03 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

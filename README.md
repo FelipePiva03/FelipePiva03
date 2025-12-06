@@ -69,53 +69,11 @@ Meu trabalho concentra-se em:
 
 ---
 
-## 📊 Estatísticas do GitHub
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FelipePiva03&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true"/>
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipePiva03&layout=compact&theme=tokyonight&hide_border=true"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FelipePiva03&theme=tokyonight&hide_border=true"/>
-</div>
-
----
-
 ## 🎯 Projetos em Destaque
 
 ### 🔄 Data Engineering
 - **[Pipeline ETL com Airflow]** - *Em breve*
   - Orquestração de pipelines de dados com Apache Airflow e Docker
-  
-- **[Data Lakehouse com Databricks]** - *Em breve*
-  - Processamento de dados em larga escala com PySpark e Delta Lake
-
-- **[Transformação de Dados com dbt]** - *Em breve*
-  - Modelagem analítica e transformações SQL utilizando dbt
-
-### 🤖 Machine Learning & MLOps
-- **[Sistema de Classificação NLP com Transformers]** - *Em breve*
-  - Pipeline de processamento de linguagem natural com Hugging Face Transformers
-  
-- **[Deep Learning com PyTorch/TensorFlow]** - *Em breve*
-  - Desenvolvimento e treinamento de modelos de deep learning para problemas complexos
-  
-- **[ML Model Deployment com MLflow]** - *Em breve*
-  - Deploy, versionamento e monitoramento de modelos em produção
-
-### 📊 Business Intelligence & Aplicações
-- **[Dashboard Interativo - Power BI]** - *Em breve*
-  - Migração e modernização de dashboards para tomada de decisão
-  
-- **[Simulador em Python]** - *Em breve*
-  - Aplicação Streamlit para simulações e análise de cenários
-
-- **[API RESTful com FastAPI]** - *Em breve*
-  - Desenvolvimento de APIs escaláveis para servir modelos de ML
-
----
 
 ## 📚 Aprendizado Contínuo
 
@@ -145,7 +103,4 @@ Estou sempre aberto a discutir sobre:
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:felipepiva02@gmail.com)
 
 ---
-
-⭐️ **"Transformando dados em valor, um pipeline por vez"** ⭐️
-
 </div>

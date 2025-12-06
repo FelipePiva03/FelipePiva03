@@ -72,7 +72,7 @@ Meu trabalho concentra-se em:
 ## 🎯 Projetos em Destaque
 
 ### 🔄 Data Engineering
-- **[Pipeline ETL com Airflow]** - *Em breve*
+- **[Pipeline ETL com Airflow]** - Em desenvolvimento
   - Orquestração de pipelines de dados com Apache Airflow e Docker
 
 ## 📚 Aprendizado Contínuo

@@ -42,11 +42,10 @@ Aqui estão as principais tecnologias que utilizo nos meus projetos:
 ### 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_AQUI&layout=compact&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FelipePiva03&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipePiva03&layout=compact&theme=dracula"/>
 </div>
 
-*(Nota: Lembre-se de substituir "SEU_USUARIO_AQUI" pelo seu username real do GitHub nos links acima para os gráficos aparecerem)*
 
 ---
 
@@ -55,11 +54,4 @@ Aqui estão as principais tecnologias que utilizo nos meus projetos:
 Estou sempre aberto a colaborações e trocas de conhecimento sobre a área de dados.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](LINK_DO_SEU_LINKEDIN_AQUI)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:SEU_EMAIL_AQUI)
-
-
-
-<!---
-FelipePiva03/FelipePiva03 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:felipepiva02@gmail.com)

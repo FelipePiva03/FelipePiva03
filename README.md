@@ -72,13 +72,13 @@ Meu trabalho concentra-se em:
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FelipePiva03&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true"/>
   
-![Felipe's GitHub stats](https://github-readme-stats.vercel.app/api?username=FelipePiva03&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipePiva03&layout=compact&theme=tokyonight&hide_border=true"/>
+</div>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FelipePiva03&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=FelipePiva03&theme=tokyonight&hide_border=true)
-
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FelipePiva03&theme=tokyonight&hide_border=true"/>
 </div>
 
 ---

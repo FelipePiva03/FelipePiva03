@@ -69,7 +69,7 @@ Meu trabalho concentra-se em:
 
 ---
 
-## 🎯 Projetos em Destaque
+## 🎯 Projetos Realizados
 
 ### 🔄 Data Engineering
 - **[Pipeline ETL com Airflow]** - Em desenvolvimento

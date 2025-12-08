@@ -72,8 +72,10 @@ Meu trabalho concentra-se em:
 ## 🎯 Projetos Realizados
 
 ### 🔄 Data Engineering
-- **[Pipeline ETL com Airflow]** - Em desenvolvimento
-  - Orquestração de pipelines de dados com Apache Airflow e Docker
+#### [NYC Taxi Data Pipeline - Airflow + dbt + Spark](https://github.com/FelipePiva03/Data-Pipeline) ⭐
+> Pipeline de dados completo de ponta a ponta implementando a arquitetura Medallion (Bronze → Silver → Gold)
+
+**Stack**: Apache Airflow • PySpark • dbt • PostgreSQL • MinIO • Docker • Streamlit
 
 ## 📚 Aprendizado Contínuo
 

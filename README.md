@@ -84,9 +84,9 @@ Meu trabalho concentra-se em:
 
 **Stack**: PySpark, Databricks 
 
-## 📚 Aprendizado Contínuo
+## Aprendizado Contínuo
 
-🎓 **Bacharelado em Ciência de Dados** (Conclusão prevista: 2028)
+**Bacharelado em Ciência de Dados** (Conclusão prevista: 2028)
 
 Atualmente focado em aprofundar conhecimentos em:
 - Arquitetura de dados moderna (Data Mesh, Data Fabric)
@@ -97,7 +97,7 @@ Atualmente focado em aprofundar conhecimentos em:
 
 ---
 
-## 💬 Vamos Conversar?
+## Vamos Conversar?
 
 Estou sempre aberto a discutir sobre:
 - 🔧 Engenharia de Dados e arquiteturas modernas

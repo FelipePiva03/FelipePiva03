@@ -80,7 +80,7 @@ Meu trabalho concentra-se em:
 ## Projetos Em Desenvolvimento
 
 #### [NASA lakehouse - Databricks +  Spark](https://github.com/FelipePiva03/nasa-lakehouse-databricks) 
-> Pipeline de dados de diversas fontes, transformações e construção de diversas VIEWS
+> Pipeline de dados de diversas fontes, transformações e construção de diversas VIEWS e arquitetura Medallion (Bronze → Silver → Gold)
 
 **Stack**: PySpark, Databricks 
 

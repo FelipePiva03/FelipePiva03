@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou Felipe Piva!
+# Olá, eu sou Felipe Piva!
 
 <div align="center">
   
@@ -8,13 +8,13 @@
 
 </div>
 
-## 🚀 Sobre Mim
+## Sobre Mim
 
 Data Scientist em transição para **Data Engineering** e **Machine Learning Engineering (MLOps)**, com experiência sólida em transformar dados brutos em inteligência de negócio acionável. Atualmente cursando Bacharelado em Ciência de Dados (conclusão prevista para 2028), com foco prático na construção de pipelines robustos e deployment de modelos em produção.
 
 Na CNH, lidero projetos de modernização de plataformas BI e desenvolvo soluções end-to-end: desde automação de coleta de dados (APIs e scripts Python) até aplicações de simulação que suportam decisões estratégicas. Tenho forte experiência com engenharia de dados na plataforma **Databricks**, utilizando **PySpark** para processar e enriquecer grandes volumes de dados para análise e iniciativas de Machine Learning.
 
-### 💼 Experiência Atual
+### Experiência Atual
 - **Data Scientist @ CNH** (Ago 2025 - Presente)
   - Construção e otimização de pipelines de dados (ETL/ELT) com PySpark no Databricks
   - Migração e modernização de dashboards (Qlik → Power BI)
@@ -22,7 +22,7 @@ Na CNH, lidero projetos de modernização de plataformas BI e desenvolvo soluç�
   - Aplicação de ML e NLP para classificação de texto e extração de insights de dados não estruturados
   - Gestão ágil de projetos de dados com Git/GitHub
 
-### 🎯 Foco Técnico
+### Foco Técnico
 Meu trabalho concentra-se em:
 - 🔧 **Data Engineering**: Pipelines escaláveis, orquestração e qualidade de dados
 - 🤖 **MLOps**: Deploy, monitoramento e versionamento de modelos ML
@@ -31,7 +31,7 @@ Meu trabalho concentra-se em:
 
 ---
 
-## 🛠️ Stack Tecnológico
+## Stack Tecnológico
 
 ### Linguagens & Frameworks
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -69,13 +69,20 @@ Meu trabalho concentra-se em:
 
 ---
 
-## 🎯 Projetos Realizados
+## Projetos Realizados
 
-### 🔄 Data Engineering
+### Data Engineering
 #### [NYC Taxi Data Pipeline - Airflow + dbt + Spark](https://github.com/FelipePiva03/Data-Pipeline) ⭐
 > Pipeline de dados completo de ponta a ponta implementando a arquitetura Medallion (Bronze → Silver → Gold)
 
 **Stack**: Apache Airflow • PySpark • dbt • PostgreSQL • MinIO • Docker • Streamlit
+
+## Projetos Em Desenvolvimento
+
+#### [NASA lakehouse - Databricks +  Spark](https://github.com/FelipePiva03/nasa-lakehouse-databricks) 
+> Pipeline de dados de diversas fontes, transformações e construção de diversas VIEWS
+
+**Stack**: PySpark, Databricks 
 
 ## 📚 Aprendizado Contínuo
 
